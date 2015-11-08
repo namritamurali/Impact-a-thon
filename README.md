@@ -1,6 +1,6 @@
 # Impactathon
 ####A project to enable mentally disabled children to fully enjoy public playgrounds.
-Sarika Bajaj, Namrita Murali, Gaurav Lahiriy, Ananya Chandra, Anand Kapadia
+Sarika Bajaj, Namrita Murali, Gaurav Lahiry, Ananya Chandra, Anand Kapadia
 
 ## Product Specification
 
