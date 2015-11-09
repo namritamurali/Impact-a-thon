@@ -16,9 +16,20 @@ For the future, images can be added like this:
 ![alt text](image.jpg)
 
 ## Bill of Materials
+* Arduino Uno
+* Arduino MP3 Shield
+* SD Card
+* Arduino Pro Mini
+* XBee Series 1 w/ Breakouts and Regulators x3
+* Vibration Motors x4
+* Gloves
+* Beanie
 
 ## Hardware Specifications
+--an image of our full circuit will be loaded here later--
 
 ## Software Specifications
+--a table of contents of code that we will use will go here later--
 
 ## Presentation Description
+--an abstract of the project will go here. Pictures and link to ppt or poster will go here as well--
