@@ -45,13 +45,13 @@
       <setting command="PR">FF</setting>
       <setting command="IU">1</setting>
       <setting command="IT">1</setting>
-      <setting command="IC">0</setting>
+      <setting command="IC">3</setting>
       <setting command="IR">10</setting>
       <setting command="P0">1</setting>
       <setting command="P1">0</setting>
       <setting command="PT">FF</setting>
       <setting command="RP">28</setting>
-      <setting command="IA">FFFF</setting>
+      <setting command="IA">1</setting>
       <setting command="T0">FF</setting>
       <setting command="T1">FF</setting>
       <setting command="T2">FF</setting>

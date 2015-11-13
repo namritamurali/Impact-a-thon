@@ -7,7 +7,7 @@
       <setting command="CH">C</setting>
       <setting command="ID">DEAF</setting>
       <setting command="DH">0</setting>
-      <setting command="DL">2</setting>
+      <setting command="DL">20</setting>
       <setting command="MY">1</setting>
       <setting command="MM">0</setting>
       <setting command="RR">0</setting>
@@ -45,13 +45,13 @@
       <setting command="PR">FF</setting>
       <setting command="IU">1</setting>
       <setting command="IT">1</setting>
-      <setting command="IC">4</setting>
+      <setting command="IC">0</setting>
       <setting command="IR">10</setting>
       <setting command="P0">1</setting>
       <setting command="P1">0</setting>
       <setting command="PT">FF</setting>
       <setting command="RP">28</setting>
-      <setting command="IA">2</setting>
+      <setting command="IA">FFFF</setting>
       <setting command="T0">FF</setting>
       <setting command="T1">FF</setting>
       <setting command="T2">FF</setting>
