@@ -5,7 +5,7 @@
     <description_file>xb24_15_4_10ee.xml</description_file>
     <settings>
       <setting command="CH">C</setting>
-      <setting command="ID">000F</setting>
+      <setting command="ID">DEAF</setting>
       <setting command="DH">0</setting>
       <setting command="DL">1</setting>
       <setting command="MY">2</setting>
@@ -29,7 +29,7 @@
       <setting command="SP">0</setting>
       <setting command="DP">3E8</setting>
       <setting command="SO">0</setting>
-      <setting command="BD">7</setting>
+      <setting command="BD">3</setting>
       <setting command="NB">0</setting>
       <setting command="RO">3</setting>
       <setting command="AP">0</setting>
@@ -39,19 +39,19 @@
       <setting command="D5">1</setting>
       <setting command="D4">0</setting>
       <setting command="D3">0</setting>
-      <setting command="D2">0</setting>
-      <setting command="D1">0</setting>
-      <setting command="D0">0</setting>
+      <setting command="D2">4</setting>
+      <setting command="D1">3</setting>
+      <setting command="D0">3</setting>
       <setting command="PR">FF</setting>
       <setting command="IU">1</setting>
       <setting command="IT">1</setting>
       <setting command="IC">0</setting>
-      <setting command="IR">0</setting>
+      <setting command="IR">10</setting>
       <setting command="P0">1</setting>
       <setting command="P1">0</setting>
       <setting command="PT">FF</setting>
       <setting command="RP">28</setting>
-      <setting command="IA">FFFFFFFFFFFFFFFF</setting>
+      <setting command="IA">FFFF</setting>
       <setting command="T0">FF</setting>
       <setting command="T1">FF</setting>
       <setting command="T2">FF</setting>
