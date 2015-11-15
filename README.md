@@ -29,6 +29,10 @@ For the future, images can be added like this:
 --an image of our full circuit will be loaded here later--
 
 ## Software Specifications
+Arduino library for MP3 Shield:
+
+https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library
+
 --a table of contents of code that we will use will go here later--
 
 ## Presentation Description
